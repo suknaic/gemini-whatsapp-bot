@@ -54,7 +54,7 @@ Para executar o bot, utilize o seguinte comando:
 ```bash
 bun dev
 ```
-Para Construir o bandle do o bot, utilize o seguinte comando:
+Para Construir o bundle, utilize o seguinte comando:
 
 ```bash
 bun build
