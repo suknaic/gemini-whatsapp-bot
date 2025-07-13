@@ -1,4 +1,4 @@
-# Bot WhatsApp - Inglês Concierge
+# Bot WhatsApp - Inglês Concierge 🛎️ 
 
 Este projeto é um bot para WhatsApp desenvolvido com a biblioteca [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js). Ele foi projetado para automatizar o processamento de arquivos PDF enviados em grupos específicos, analisando-os por meio de um serviço externo chamado **Gemini** e retornando os resultados ao usuário.
 
