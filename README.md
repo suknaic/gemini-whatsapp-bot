@@ -30,10 +30,10 @@ Este projeto é um bot para WhatsApp desenvolvido com a biblioteca [whatsapp-web
 │   └── service
 │       └── gemini.ts     # Serviço de integração com o Gemini
 ├── .env                  # Configurações de variáveis de ambiente
-├── [.env.exemplo](http://_vscodecontentref_/1)          # Exemplo de configuração do .env
-├── [package.json](http://_vscodecontentref_/2)          # Configurações do projeto e dependências
-├── [tsconfig.json](http://_vscodecontentref_/3)         # Configurações do TypeScript
-└── [README.md](http://_vscodecontentref_/4)             # Documentação do projeto
+├── [.env.exemplo]          # Exemplo de configuração do .env
+├── [package.json]          # Configurações do projeto e dependências
+├── [tsconfig.json]         # Configurações do TypeScript
+└── [README.md]             # Documentação do projeto
 
 ## 🚀 Como Executar o Projeto
 
