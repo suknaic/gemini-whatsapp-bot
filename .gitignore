@@ -30,8 +30,8 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 # IntelliJ based IDEs
 .idea
 .vscode
-.wwwebjs_auth
-.wwwebjs_cache
+.wwebjs_auth
+.wwebjs_cache
 
 # Finder (MacOS) folder config
 .DS_Store
