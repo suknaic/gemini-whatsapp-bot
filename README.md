@@ -35,6 +35,8 @@ Este projeto é um bot para WhatsApp desenvolvido com a biblioteca [whatsapp-web
 ├── [tsconfig.json]         # Configurações do TypeScript
 └── [README.md]             # Documentação do projeto
 
+```
+
 ## 🚀 Como Executar o Projeto
 
 ### Instalação de Dependências
